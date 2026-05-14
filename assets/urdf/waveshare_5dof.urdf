@@ -12,7 +12,7 @@
   <link name="base_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/base.stl"/>
+        <mesh filename="package://../meshes/base.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <material name="gray"/>
@@ -22,7 +22,7 @@
   <link name="l1_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L1.stl"/>
+        <mesh filename="package://../meshes/L1.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 -0.062"/>
       <material name="white"/>
@@ -32,7 +32,7 @@
   <link name="l2_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L2.stl"/>
+        <mesh filename="package://../meshes/L2.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 -0.041051 -0.11574"/>
       <material name="white"/>
@@ -42,7 +42,7 @@
   <link name="l3_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L3.stl"/>
+        <mesh filename="package://../meshes/L3.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 -0.160452 -0.235141"/>
       <material name="white"/>
@@ -52,7 +52,7 @@
   <link name="l4_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L4.stl"/>
+        <mesh filename="package://../meshes/L4.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 -0.250907 -0.325596"/>
       <material name="white"/>
@@ -62,7 +62,7 @@
   <link name="l5_1_A_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L5_1_A.stl"/>
+        <mesh filename="package://../meshes/L5_1_A.stl"/>
       </geometry>
       <origin xyz="-0.003489 -0.311007 -0.358744" rpy="0 0 0"/>
       <material name="white"/>
@@ -72,7 +72,7 @@
   <link name="l5_1_B_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L5_1_B.stl"/>
+        <mesh filename="package://../meshes/L5_1_B.stl"/>
       </geometry>
       <origin xyz="-0.024489 -0.311007 -0.358744" rpy="0 0 0"/>
       <material name="white"/>
@@ -82,7 +82,7 @@
   <link name="l5_2_A_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L5_2_A.stl"/>
+        <mesh filename="package://../meshes/L5_2_A.stl"/>
       </geometry>
       <origin xyz="0.017511 -0.285551 -0.362001" rpy="0 0 0"/>
       <material name="white"/>
@@ -92,7 +92,7 @@
   <link name="l5_2_B_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L5_2_B.stl"/>
+        <mesh filename="package://../meshes/L5_2_B.stl"/>
       </geometry>
       <origin xyz="-0.045489 -0.285551 -0.362001" rpy="0 0 0"/>
       <material name="white"/>
@@ -102,7 +102,7 @@
   <link name="l5_3_A_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L5_3_A.stl"/>
+        <mesh filename="package://../meshes/L5_3_A.stl"/>
       </geometry>
       <origin xyz="0.039711 -0.304219 -0.347532" rpy="0 0 0"/>
       <material name="white"/>
@@ -112,7 +112,7 @@
   <link name="l5_3_B_link">
     <visual>
       <geometry>
-        <mesh filename="package://roarm/meshes/L5_3_B.stl"/>
+        <mesh filename="package://../meshes/L5_3_B.stl"/>
       </geometry>
       <origin xyz="-0.067689 -0.304219 -0.347532" rpy="0 0 0"/>
       <material name="white"/>
