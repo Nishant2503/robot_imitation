@@ -11,7 +11,7 @@ p.setGravity(0, 0, -9.81)
 p.loadURDF("plane.urdf")
 
 # Path to your robot URDF
-urdf_path = "assets/urdf/waveshare_5dof.urdf"
+urdf_path = "assets/urdf/so101.urdf"
 
 # Check if file exists
 if not os.path.exists(urdf_path):
