@@ -1,1 +1,3 @@
 https://github.com/akinami3/PybulletRobotics#basics-1
+https://www.cse.iitd.ac.in/~rjaiswal/Teaching/2025/AGRL112/Homework/Week-09/Assignment-9.html
+https://towardsdatascience.com/how-to-control-a-robot-with-python/
